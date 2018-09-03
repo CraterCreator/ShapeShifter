@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Jordan/Desktop/Stuff to keep/UNITY PROJECTS/LiveHub!/Assets/Scene.unity
+  isLoaded: 1
+  isActive: 1
